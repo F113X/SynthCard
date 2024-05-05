@@ -26,15 +26,15 @@ Fixed Issues:
 - Lable for Pitch CV IN changed to OSC OUT (Still no tone control yet)
 
 New Issues:
--
+- Not tested yet
 
 ## Oscillator Notes
 To address oscillator range is to small:
 Change electrolytic capacitor value; the smaller the capacitor value the quicker it oscillates.
 Suggested values:
 
-Bass|100uf
-Tenor|33uf
-Alto|10uf
+Bass 100uf
+Tenor 33uf
+Alto 10uf
 
 Credits: Paul Bergels Triple Skulls Oscillators
