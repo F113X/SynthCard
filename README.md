@@ -46,7 +46,6 @@ Change electrolytic capacitor value; the smaller the capacitor value the quicker
 Suggested values:
 |Range|Value|
 |-----|-----|
-
 |Bass|100uf|
 |Tenor|33uf|
 |Alto|10uf|
