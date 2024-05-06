@@ -44,9 +44,11 @@ To address oscillator range is to small:
 
 Change electrolytic capacitor value; the smaller the capacitor value the quicker it oscillates.
 Suggested values:
+|Range|Value|
+|-----|-----|
 
-- Bass 100uf
-- Tenor 33uf
-- Alto 10uf
+|Bass|100uf|
+|Tenor|33uf|
+|Alto|10uf|
 
 Credits: Paul Bergels Triple Skulls Oscillators
