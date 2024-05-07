@@ -12,7 +12,6 @@ Initial version of my SynthCard.
 Features:
 - LMNC Simplest Oscillator with tone control (https://www.lookmumnocomputer.com/simplest-oscillator)
 
-![Synthcard](Images/SUPER+SIMPLE+OSCILLATOR.png)
 ![Synthcard](Images/SIMPLE+OSCILLATOR+SCHEMATIC.jpeg)
 
 - Rene Schmitz MS-20 Filter based on LMNC's Stripboard design (https://www.lookmumnocomputer.com/simple-filter)
@@ -22,10 +21,10 @@ Features:
 Issues:
 - Missing line (Fixed)
 - Oscillator level too low
-- Oscillator range is to small
+- Oscillator range is to small (Fixed) (See Oscillator notes)
 - Tone knob wired in backwards (Fixed)
-- Pitch CV IN is actually OSC OUT without Tone
-- I want to make seperate input for the filter so external audio can be processed
+- Pitch CV IN is actually OSC OUT without Tone (Fixed)
+- I want to make seperate input for the filter so external audio can be processed (Fixed)
 
 
 
@@ -34,7 +33,8 @@ Version 1.1 - Under development
 Fixed Issues:
 - Missing Line
 - Tone is wired in correctly
-- Lable for Pitch CV IN changed to OSC OUT (Still no tone control yet)
+- Lable for Pitch CV IN changed to OSC OUT with Tone
+- Seperate input for VCF added
 
 New Issues:
 - Not tested yet
