@@ -5,9 +5,16 @@ Another SynthCard based on **BenjiaoModular's** SynthCard standard but using Eur
 
 Original: https://github.com/benjiaomodular/SynthCard/blob/main/
 
-Version 0.1 - Initial Commit
+## Version 0.1 - Initial Commit
 
 Initial version of my SynthCard. 
+
+|Process|Status|Time|
+|-------|------|----|
+|PCB|Designed|-|
+|Fabrication|Done|-|
+|Build|Done|-|
+|Test|Done|-|
 
 Features:
 - LMNC Simplest Oscillator with tone control (https://www.lookmumnocomputer.com/simplest-oscillator)
@@ -28,7 +35,14 @@ Issues:
 
 
 
-Version 1.1 - Under development
+## Version 1.1 - Under development
+
+|Process|Status|Time|
+|-------|------|----|
+|PCB|Designed|-|
+|Fabrication|Not Done|-|
+|Build|Not Done|-|
+|Test|Not Done|-|
 
 Fixed Issues:
 - Missing Line
